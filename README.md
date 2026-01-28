@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeffrey LowkeyCat 👋</h1>
+<h1>Hi, I'm Jeffrey Yellowman 👋</h1>
 <p style="font-size:16px; line-height:1.6;">
 Frontend engineer. Code is my treasure.
 </p>
@@ -8,9 +8,7 @@ Frontend engineer. Code is my treasure.
 ### 🛠️ 開發者工具與實用小品
 - ⚙️ [**workr**](https://github.com/Jeffrey0117/workr) - Universal job queue platform for background tasks
 - ⚡ [**ZeroSetup**](https://github.com/Jeffrey0117/ZeroSetup) - Zero-configuration setup script - Automated environment setup with one-click batch installation
-- 💡 [**IdealFlow**](https://github.com/Jeffrey0117/IdealFlow) - Idea management workflow tool - Transform concepts into actionable projects with structured flow
 - 🪟 [**whereismywindow**](https://github.com/Jeffrey0117/whereismywindow) - Never lose track of your focused window on multi-monitor setups. Lightweight Rust app with colored borders and monitor badges.
-- 🌐 [**brozz**](https://github.com/Jeffrey0117/brozz) - Modern browser automation toolkit - Streamline web testing and scripting workflows
 - 🌐 [**Rawser**](https://github.com/Jeffrey0117/Rawser) - Developer-focused HTTP browser - Specialized browser for testing APIs and HTTPS requests with debugging tools
 - 🔖 [**LocalTab**](https://github.com/Jeffrey0117/LocalTab) - Localhost project manager - Quick access browser extension for local development servers
 - ☁️ [**cloudpipe**](https://github.com/Jeffrey0117/cloudpipe) - Quick API tunnel service using Cloudflare Tunnel
@@ -26,7 +24,6 @@ Frontend engineer. Code is my treasure.
 - 📸 [**Screenshot-OCR**](https://github.com/Jeffrey0117/Screenshot-OCR) - Screenshot OCR tool - Extract text from screenshots using optical character recognition
 - 🖼️ [**repic**](https://github.com/Jeffrey0117/repic) - Simple and efficient image resizing tool - Quick batch processing for web optimization
 - 🖼️ [**duckshot**](https://github.com/Jeffrey0117/duckshot) - softfor screenshot
-- 🎨 [**Text2Img**](https://github.com/Jeffrey0117/Text2Img) - Text-to-image generator - Convert text content into stylized images with customizable templates
 
 ### 📺 YouTube 相關工具
 - 📺 [**meetube**](https://github.com/Jeffrey0117/meetube) - MeeTube - A modern YouTube client extracted from FreeTube
@@ -43,6 +40,7 @@ Frontend engineer. Code is my treasure.
 
 ### 📝 部落格與筆記整理
 - 📝 [**Evernote**](https://github.com/Jeffrey0117/Evernote) - Evernote is a blog for those knowledge learn from vibe coding, make md to web for devs to keep.
+- 💡 [**IdealFlow**](https://github.com/Jeffrey0117/IdealFlow) - Idea management workflow tool - Transform concepts into actionable projects with structured flow
 - 📝 [**gpt-think-blog**](https://github.com/Jeffrey0117/gpt-think-blog) - asically a note-style blog where I chat with GPT and dump whatever ideas pop up.
 - 📚 [**js-memes-encyclopedia**](https://github.com/Jeffrey0117/js-memes-encyclopedia) - all JS meme in one
 - 📚 [**bookiee**](https://github.com/Jeffrey0117/bookiee) - Personal bookmarking system - Organize and manage your web resources efficiently
@@ -52,6 +50,7 @@ Frontend engineer. Code is my treasure.
 - 💻 [**cmdx**](https://github.com/Jeffrey0117/cmdx) - Unix-style commands for Windows CMD - Bring ls, grep, and other Linux commands to Windows terminal
 - 💻 [**wcmd**](https://github.com/Jeffrey0117/wcmd) - Windows commands for Linux - Bring dir, copy, and other Windows commands to Linux terminal
 - ✏️ [**typee**](https://github.com/Jeffrey0117/typee) - Editor Abstraction Layer - One command, multiple editors
+- 🌐 [**brozz**](https://github.com/Jeffrey0117/brozz) - Modern browser automation toolkit - Streamline web testing and scripting workflows
 
 ### 🔮 Claude 設定與工具
 - 🛡️ [**saveclaudenode**](https://github.com/Jeffrey0117/saveclaudenode) - Protect Claude Code sessions from accidental Node.js process termination. Multi-layered defense with PreToolUse hooks + Guardian daemon.
@@ -61,12 +60,17 @@ Frontend engineer. Code is my treasure.
 - 🤖 [**meei**](https://github.com/Jeffrey0117/meei) - Unified AI SDK - 統一多家 LLM 介面 (DeepSeek, OpenAI, Gemini, Qwen, Groq)
 - 💬 [**gitgpt**](https://github.com/Jeffrey0117/gitgpt) - GPT chat CLI with git version control for conversations
 - ➖ [**monus**](https://github.com/Jeffrey0117/monus) - Minimalist calculation utility - Lightweight Python script for quick mathematical operations
+
+### 🎤 聲音相關工具
 - 🎤 [**AprilVoice**](https://github.com/Jeffrey0117/AprilVoice) - Speech-to-text transcription tool - Convert audio recordings to text with high accuracy
+- 📝 [**biaodian**](https://github.com/Jeffrey0117/biaodian) - Chinese punctuation formatter - Auto-correct and standardize punctuation marks in Chinese text
+- 🎙️ [**Hanzi_ASR**](https://github.com/Jeffrey0117/Hanzi_ASR) - Chinese speech recognition - Automatic Speech Recognition (ASR) system for Mandarin Chinese
 
 ### 🎨 內容創作者工具
 - 📊 [**UPPER.COM**](https://github.com/Jeffrey0117/UPPER.COM) - Upload free files for creators to create lead magnets.
 - 📄 [**Qter**](https://github.com/Jeffrey0117/Qter) - A better google form
 - 🎨 [**PasteV**](https://github.com/Jeffrey0117/PasteV) - Creator card generator - Design and generate professional social media graphics for content creators
+- 🎨 [**Text2Img**](https://github.com/Jeffrey0117/Text2Img) - Text-to-image generator - Convert text content into stylized images with customizable templates
 - 🧑‍💼 [**personal-social-manager**](https://github.com/Jeffrey0117/personal-social-manager) - personal-social-manager for myself
 
 ### 🧵 Threads 主題
@@ -105,12 +109,9 @@ Frontend engineer. Code is my treasure.
 - 🔧 [**badname**](https://github.com/Jeffrey0117/badname) - make your code be a bad boy
 - 🔧 [**JQX**](https://github.com/Jeffrey0117/JQX) - The instant JSX-to-jQuery transformation engine.
 - 🎨 [**batchdall**](https://github.com/Jeffrey0117/batchdall) - DALL-E 3 批次圖像生成
-- 📝 [**biaodian**](https://github.com/Jeffrey0117/biaodian) - Chinese punctuation formatter - Auto-correct and standardize punctuation marks in Chinese text
-- 🎙️ [**Hanzi_ASR**](https://github.com/Jeffrey0117/Hanzi_ASR) - Chinese speech recognition - Automatic Speech Recognition (ASR) system for Mandarin Chinese
 
 ---
 
 <p align="center">
   <i>持續更新中... | Continuously updated...</i>
 </p>
-
