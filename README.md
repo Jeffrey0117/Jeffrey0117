@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jeffrey 👋</h1>
+<h1>Hi, I'm Jeffrey Yellowman 👋</h1>
 <p style="font-size:16px; line-height:1.6;">
-前端工程師，雖然我沒看海賊王，但，我把寶藏都放在這裡了。
+Frontend engineer. Code is my treasure.
 </p>
 
 ## 🚀 Projects Showcase
