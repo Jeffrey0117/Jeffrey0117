@@ -12,6 +12,9 @@
   
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeffrey0117&theme=nord_dark)
 
+![GitHub chart](https://ghchart.rshah.org/Jeffrey0117)
+
+
 </div>
 
 
@@ -177,4 +180,5 @@
 <p align="center">
   <i>Continuously updated...</i>
 </p>
+
 
