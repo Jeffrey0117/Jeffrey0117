@@ -8,6 +8,13 @@
   🇺🇸 English | <a href="README_zh.md">🇹🇼 中文</a>
 </p>
 
+<div align="center">
+  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeffrey0117&theme=nord_dark)
+
+</div>
+
+
 ---
 
 ## 🚀 Projects Showcase
@@ -170,3 +177,4 @@
 <p align="center">
   <i>Continuously updated...</i>
 </p>
+
