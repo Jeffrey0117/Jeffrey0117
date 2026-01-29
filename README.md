@@ -33,39 +33,39 @@
 
 | Project | Description |
 |---------|-------------|
-| [**ShotBoard**](https://github.com/Jeffrey0117/ShotBoard) | Recording tool for courses/product demos with script canvas |
+| [**DuckShot**](https://github.com/Jeffrey0117/DuckShot) | Innovative screenshot tool with upload & slicing tools for frontend devs |
+| [**RePic**](https://github.com/Jeffrey0117/RePic) | Revolutionary image viewer with innovative .repic format - drag to grab, super fast |
 | [**Screenshot-OCR**](https://github.com/Jeffrey0117/Screenshot-OCR) | Screenshot + OCR with AI enhancement |
-| [**duckshot**](https://github.com/Jeffrey0117/duckshot) | Innovative screenshot tool with upload & slicing tools for frontend devs |
-| [**repic**](https://github.com/Jeffrey0117/repic) | Revolutionary image viewer with innovative .repic format - drag to grab, super fast |
+| [**ShotBoard**](https://github.com/Jeffrey0117/ShotBoard) | Recording tool for courses/product demos with script canvas |
 
 ### 📺 YouTube Tools
 
 | Project | Description |
 |---------|-------------|
-| [**meetube**](https://github.com/Jeffrey0117/meetube) | Ad-free customizable YouTube with equalizer & bilingual subtitles |
-| [**freetube-ultra**](https://github.com/Jeffrey0117/freetube-ultra) | Enhanced fork of FreeTube with additional features and performance improvements |
-| [**Ytify**](https://github.com/Jeffrey0117/Ytify) | Self-hosted YouTube download server |
-| [**yt-sentence-loop**](https://github.com/Jeffrey0117/yt-sentence-loop) | Loop YouTube videos sentence by sentence with auto-downloaded captions |
 | [**DubTitle**](https://github.com/Jeffrey0117/DubTitle) | Dual-monitor YouTube subtitle tool with AI - Generate vocabulary materials |
+| [**MeeTube**](https://github.com/Jeffrey0117/MeeTube) | Ad-free customizable YouTube with equalizer & bilingual subtitles |
+| [**Ytify**](https://github.com/Jeffrey0117/Ytify) | Self-hosted YouTube download server |
+| [**freetube-ultra**](https://github.com/Jeffrey0117/freetube-ultra) | Enhanced fork of FreeTube with additional features and performance improvements |
+| [**yt-sentence-loop**](https://github.com/Jeffrey0117/yt-sentence-loop) | Loop YouTube videos sentence by sentence with auto-downloaded captions |
 
 ### 🎬 Video Production Tools (CapCut Related)
 
 | Project | Description |
 |---------|-------------|
-| [**autoReel**](https://github.com/Jeffrey0117/autoReel) | Automated Instagram Reels generator |
-| [**face-vid-template**](https://github.com/Jeffrey0117/face-vid-template) | Face video template generator with face overlay and watermark support |
+| [**AutoReel**](https://github.com/Jeffrey0117/AutoReel) | Automated Instagram Reels generator |
 | [**JYpymaker**](https://github.com/Jeffrey0117/JYpymaker) | Automated video generator using Python scripts with customizable templates |
 | [**ai-short-video-generator**](https://github.com/Jeffrey0117/ai-short-video-generator) | Generate short videos for English vocab learning |
+| [**face-vid-template**](https://github.com/Jeffrey0117/face-vid-template) | Face video template generator with face overlay and watermark support |
 
 ### 📝 Blog & Notes
 
 | Project | Description |
 |---------|-------------|
-| [**Evernote**](https://github.com/Jeffrey0117/Evernote) | MD + AI tech blog template |
+| [**Bookiee**](https://github.com/Jeffrey0117/Bookiee) | AI-generated book/magazine content + RSS translation (in development) |
+| [**EverNote**](https://github.com/Jeffrey0117/EverNote) | MD + AI tech blog template |
 | [**IdealFlow**](https://github.com/Jeffrey0117/IdealFlow) | Social media UI-style Kanban for dev ideas |
 | [**gpt-think-blog**](https://github.com/Jeffrey0117/gpt-think-blog) | Note-style blog for GPT conversations and random ideas |
 | [**js-memes-encyclopedia**](https://github.com/Jeffrey0117/js-memes-encyclopedia) | All JS memes in one place |
-| [**bookiee**](https://github.com/Jeffrey0117/bookiee) | AI-generated book/magazine content + RSS translation (in development) |
 
 ### 💻 CLI Tools
 
@@ -153,9 +153,9 @@
 
 | Project | Description |
 |---------|-------------|
-| [**React-Beginner-Challenges**](https://github.com/Jeffrey0117/React-Beginner-Challenges) | Build React Interview Muscle Memory – 30+ Drills |
-| [**Frontend-Philosophy-30**](https://github.com/Jeffrey0117/Frontend-Philosophy-30) | Frontend Philosophy 30: Where Code Meets Wisdom |
-| [**Financial-Indicators-with-Python**](https://github.com/Jeffrey0117/Financial-Indicators-with-Python) | Example code and scripts for financial indicators |
+| [**financial-indicators-with-python**](https://github.com/Jeffrey0117/financial-indicators-with-python) | Example code and scripts for financial indicators |
+| [**frontend-philosophy-30**](https://github.com/Jeffrey0117/frontend-philosophy-30) | Frontend Philosophy 30: Where Code Meets Wisdom |
+| [**react-beginner-challenges**](https://github.com/Jeffrey0117/react-beginner-challenges) | Build React Interview Muscle Memory – 30+ Drills |
 
 ### 🧪 Experimental Toys
 

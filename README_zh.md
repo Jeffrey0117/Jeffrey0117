@@ -33,39 +33,39 @@
 
 | 專案 | 說明 |
 |------|------|
-| [**ShotBoard**](https://github.com/Jeffrey0117/ShotBoard) | 錄影工具，拿來上課或錄影產品去宣傳，可以有講稿畫布 |
+| [**DuckShot**](https://github.com/Jeffrey0117/DuckShot) | 超創新的截圖工具，可以直接截圖完上傳，裡面還帶有切版工具，前端開發者超實用 |
+| [**RePic**](https://github.com/Jeffrey0117/RePic) | 最屌的看圖軟體，創新的 repic 檔案，拖曳就抓，速度超快 |
 | [**Screenshot-OCR**](https://github.com/Jeffrey0117/Screenshot-OCR) | 截圖然後辨識，有串 AI 可以提高辨識率 |
-| [**duckshot**](https://github.com/Jeffrey0117/duckshot) | 超創新的截圖工具，可以直接截圖完上傳，裡面還帶有切版工具，前端開發者超實用 |
-| [**repic**](https://github.com/Jeffrey0117/repic) | 最屌的看圖軟體，創新的 repic 檔案，拖曳就抓，速度超快 |
+| [**ShotBoard**](https://github.com/Jeffrey0117/ShotBoard) | 錄影工具，拿來上課或錄影產品去宣傳，可以有講稿畫布 |
 
 ### 📺 YouTube 相關工具
 
 | 專案 | 說明 |
 |------|------|
-| [**meetube**](https://github.com/Jeffrey0117/meetube) | 沒有廣告且客製化功能的 YT，並且放了等化器與雙語字幕的擴充工具，手機就可以用 |
-| [**freetube-ultra**](https://github.com/Jeffrey0117/freetube-ultra) | FreeTube 強化版，更多功能與效能優化 |
-| [**Ytify**](https://github.com/Jeffrey0117/Ytify) | 自架 YouTube 下載伺服器 |
-| [**yt-sentence-loop**](https://github.com/Jeffrey0117/yt-sentence-loop) | 逐句循環播放 YouTube 影片，自動下載字幕 |
 | [**DubTitle**](https://github.com/Jeffrey0117/DubTitle) | 雙螢幕使用者適合的 YT 字幕工具，有串 AI，可生成生字教材 |
+| [**MeeTube**](https://github.com/Jeffrey0117/MeeTube) | 沒有廣告且客製化功能的 YT，並且放了等化器與雙語字幕的擴充工具，手機就可以用 |
+| [**Ytify**](https://github.com/Jeffrey0117/Ytify) | 自架 YouTube 下載伺服器 |
+| [**freetube-ultra**](https://github.com/Jeffrey0117/freetube-ultra) | FreeTube 強化版，更多功能與效能優化 |
+| [**yt-sentence-loop**](https://github.com/Jeffrey0117/yt-sentence-loop) | 逐句循環播放 YouTube 影片，自動下載字幕 |
 
 ### 🎬 剪映相關視頻工具
 
 | 專案 | 說明 |
 |------|------|
-| [**autoReel**](https://github.com/Jeffrey0117/autoReel) | 自動化 Instagram Reels 生成器 |
-| [**face-vid-template**](https://github.com/Jeffrey0117/face-vid-template) | 人臉影片模板生成器，支援浮水印 |
+| [**AutoReel**](https://github.com/Jeffrey0117/AutoReel) | 自動化 Instagram Reels 生成器 |
 | [**JYpymaker**](https://github.com/Jeffrey0117/JYpymaker) | 用 Python 腳本自動生成影片 |
 | [**ai-short-video-generator**](https://github.com/Jeffrey0117/ai-short-video-generator) | AI 生成英語單字學習短影片 |
+| [**face-vid-template**](https://github.com/Jeffrey0117/face-vid-template) | 人臉影片模板生成器，支援浮水印 |
 
 ### 📝 部落格與筆記整理
 
 | 專案 | 說明 |
 |------|------|
-| [**Evernote**](https://github.com/Jeffrey0117/Evernote) | 通過 md 與 AI 生成技術筆記，就是一個筆記部落格模板 |
+| [**Bookiee**](https://github.com/Jeffrey0117/Bookiee) | 通過 AI 生成書本的內容與雜誌內容，以及翻譯 RSS 文章，還待開發 |
+| [**EverNote**](https://github.com/Jeffrey0117/EverNote) | 通過 md 與 AI 生成技術筆記，就是一個筆記部落格模板 |
 | [**IdealFlow**](https://github.com/Jeffrey0117/IdealFlow) | 以社交媒體發文為 UI 的 Kanban 軟體，適合紀錄開發點子 |
 | [**gpt-think-blog**](https://github.com/Jeffrey0117/gpt-think-blog) | 跟 GPT 聊天的筆記風格部落格 |
 | [**js-memes-encyclopedia**](https://github.com/Jeffrey0117/js-memes-encyclopedia) | JS 梗圖大全 |
-| [**bookiee**](https://github.com/Jeffrey0117/bookiee) | 通過 AI 生成書本的內容與雜誌內容，以及翻譯 RSS 文章，還待開發 |
 
 ### 💻 CLI 工具
 
@@ -153,9 +153,9 @@
 
 | 專案 | 說明 |
 |------|------|
-| [**React-Beginner-Challenges**](https://github.com/Jeffrey0117/React-Beginner-Challenges) | React 面試肌肉記憶訓練 – 30+ 練習題 |
-| [**Frontend-Philosophy-30**](https://github.com/Jeffrey0117/Frontend-Philosophy-30) | 前端哲學 30：程式碼與智慧的交會 |
-| [**Financial-Indicators-with-Python**](https://github.com/Jeffrey0117/Financial-Indicators-with-Python) | Python 金融指標範例程式碼 |
+| [**financial-indicators-with-python**](https://github.com/Jeffrey0117/financial-indicators-with-python) | Python 金融指標範例程式碼 |
+| [**frontend-philosophy-30**](https://github.com/Jeffrey0117/frontend-philosophy-30) | 前端哲學 30：程式碼與智慧的交會 |
+| [**react-beginner-challenges**](https://github.com/Jeffrey0117/react-beginner-challenges) | React 面試肌肉記憶訓練 – 30+ 練習題 |
 
 ### 🧪 實驗性玩具
 
