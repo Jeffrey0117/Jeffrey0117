@@ -127,23 +127,13 @@ MemoryGuy   → 7 services running. Leak detection. AI safety net.
 
 ### 💻 CLI Tools
 
-| Project | Description |
-|---------|-------------|
-| [**winbat**](https://github.com/Jeffrey0117/winbat) | Collection of useful custom batch files |
-| [**cmdx**](https://github.com/Jeffrey0117/cmdx) | Use Linux commands in Windows |
-| [**wcmd**](https://github.com/Jeffrey0117/wcmd) | Use Windows commands in Linux |
-| [**typee**](https://github.com/Jeffrey0117/typee) | One batch file to open with different editors |
-| [**brozz**](https://github.com/Jeffrey0117/brozz) | Ultra-clean browser window for screenshots/videos |
-
-### 📦 Node.js Modern Series
-
-| Project | Description |
-|---------|-------------|
-| [**modern-audio**](https://github.com/Jeffrey0117/modern-audio) | Simplified Node.js audio processing with async/await |
-| [**modern-crypto**](https://github.com/Jeffrey0117/modern-crypto) | Type-safe cryptography library for Node.js |
-| [**modern-fs**](https://github.com/Jeffrey0117/modern-fs) | Enhanced file operations with promise-based async |
-| [**modern-ffi**](https://github.com/Jeffrey0117/modern-ffi) | Simplified native library bindings for Node.js |
-| [**modern-proxy**](https://github.com/Jeffrey0117/modern-proxy) | Advanced HTTP/HTTPS proxy utilities |
+| Project | Description | Install |
+|---------|-------------|---------|
+| [**cmdx**](https://github.com/Jeffrey0117/cmdx) | Use Linux commands in Windows | `npm i -g cmdx` |
+| [**wcmd**](https://github.com/Jeffrey0117/wcmd) | Use Windows commands in Linux | `npm i -g wcmd` |
+| [**typee**](https://github.com/Jeffrey0117/typee) | One batch file to open with different editors | `npm i -g typee` |
+| [**brozz**](https://github.com/Jeffrey0117/brozz) | Ultra-clean browser window for screenshots/videos | `npm i -g brozz` |
+| [**winbat**](https://github.com/Jeffrey0117/winbat) | Collection of useful custom batch files | `npm i -g winbat` |
 
 ### 🧵 Threads Related
 
@@ -151,19 +141,6 @@ MemoryGuy   → 7 services running. Leak detection. AI safety net.
 |---------|-------------|
 | [**ThreadGram**](https://github.com/Jeffrey0117/ThreadGram) | IG-style Threads interface |
 | [**threads-capture**](https://github.com/Jeffrey0117/threads-capture) | Fixed Threads OG bug with short URL proxy |
-
-### 🔧 Tampermonkey Scripts
-
-| Project | Description |
-|---------|-------------|
-| [**tampermonkey-lurl-download**](https://github.com/Jeffrey0117/tampermonkey-lurl-download) | Download videos and images from lurl.cc |
-| [**tampermonkey-bilibili-download**](https://github.com/Jeffrey0117/tampermonkey-bilibili-download) | Download videos from Bilibili |
-| [**tampermonkey-fix-viewpic**](https://github.com/Jeffrey0117/tampermonkey-fix-viewpic) | Fix pic-view script by hbl917070 |
-| [**tampermonkey-md-copy**](https://github.com/Jeffrey0117/tampermonkey-md-copy) | Ctrl + Right Click → copy as [text](url) |
-| [**tampermonkey-player-handler**](https://github.com/Jeffrey0117/tampermonkey-player-handler) | Simple player handler |
-| [**tampermonkey-player-helper**](https://github.com/Jeffrey0117/tampermonkey-player-helper) | Better viewing experience |
-| [**tampermonkey-repo-viewer**](https://github.com/Jeffrey0117/tampermonkey-repo-viewer) | Browse repos with better view |
-| [**tampermonkey-atuo-dm**](https://github.com/Jeffrey0117/tampermonkey-atuo-dm) | Auto DM for IG |
 
 ### 🎯 Learning & Portfolio
 
@@ -184,6 +161,37 @@ MemoryGuy   → 7 services running. Leak detection. AI safety net.
 | [**batchdall**](https://github.com/Jeffrey0117/batchdall) | DALL-E 3 batch image generation |
 | [**RawSer**](https://github.com/Jeffrey0117/RawSer) | Experimental dev-focused browser (highly unstable) |
 | [**monus**](https://github.com/Jeffrey0117/monus) | Experimental manus-like tool |
+
+---
+
+<details>
+<summary>📦 Node.js Modern Series</summary>
+
+| Project | Description | Install |
+|---------|-------------|---------|
+| [**modern-audio**](https://github.com/Jeffrey0117/modern-audio) | Simplified Node.js audio processing with async/await | `npm i modern-audio` |
+| [**modern-crypto**](https://github.com/Jeffrey0117/modern-crypto) | Type-safe cryptography library for Node.js | `npm i modern-crypto` |
+| [**modern-fs**](https://github.com/Jeffrey0117/modern-fs) | Enhanced file operations with promise-based async | `npm i modern-fs` |
+| [**modern-ffi**](https://github.com/Jeffrey0117/modern-ffi) | Simplified native library bindings for Node.js | `npm i modern-ffi` |
+| [**modern-proxy**](https://github.com/Jeffrey0117/modern-proxy) | Advanced HTTP/HTTPS proxy utilities | `npm i modern-proxy` |
+
+</details>
+
+<details>
+<summary>🔧 Tampermonkey Scripts</summary>
+
+| Project | Description |
+|---------|-------------|
+| [**tampermonkey-lurl-download**](https://github.com/Jeffrey0117/tampermonkey-lurl-download) | Download videos and images from lurl.cc |
+| [**tampermonkey-bilibili-download**](https://github.com/Jeffrey0117/tampermonkey-bilibili-download) | Download videos from Bilibili |
+| [**tampermonkey-fix-viewpic**](https://github.com/Jeffrey0117/tampermonkey-fix-viewpic) | Fix pic-view script by hbl917070 |
+| [**tampermonkey-md-copy**](https://github.com/Jeffrey0117/tampermonkey-md-copy) | Ctrl + Right Click → copy as [text](url) |
+| [**tampermonkey-player-handler**](https://github.com/Jeffrey0117/tampermonkey-player-handler) | Simple player handler |
+| [**tampermonkey-player-helper**](https://github.com/Jeffrey0117/tampermonkey-player-helper) | Better viewing experience |
+| [**tampermonkey-repo-viewer**](https://github.com/Jeffrey0117/tampermonkey-repo-viewer) | Browse repos with better view |
+| [**tampermonkey-atuo-dm**](https://github.com/Jeffrey0117/tampermonkey-atuo-dm) | Auto DM for IG |
+
+</details>
 
 ---
 

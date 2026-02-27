@@ -117,23 +117,13 @@ MemoryGuy   → 7 個服務跑著。洩漏偵測。AI 安全網。
 
 ### 💻 CLI 工具
 
-| 專案 | 說明 |
-|------|------|
-| [**winbat**](https://github.com/Jeffrey0117/winbat) | 整理所有好用的自定義 bat |
-| [**cmdx**](https://github.com/Jeffrey0117/cmdx) | 讓你使用 linux 的指令在 windows 中 |
-| [**wcmd**](https://github.com/Jeffrey0117/wcmd) | 使用 linux 的時候也可以用 windows 指令 |
-| [**typee**](https://github.com/Jeffrey0117/typee) | 一個 bat 檔案讓你用不同編輯器打開 |
-| [**brozz**](https://github.com/Jeffrey0117/brozz) | 超乾淨的瀏覽器視窗，適合截圖或看影片 |
-
-### 📦 Node.js Modern 系列庫
-
-| 專案 | 說明 |
-|------|------|
-| [**modern-audio**](https://github.com/Jeffrey0117/modern-audio) | 簡化的 Node.js 音訊處理，支援 async/await |
-| [**modern-crypto**](https://github.com/Jeffrey0117/modern-crypto) | 型別安全的 Node.js 加密庫 |
-| [**modern-fs**](https://github.com/Jeffrey0117/modern-fs) | 強化的檔案操作，Promise-based |
-| [**modern-ffi**](https://github.com/Jeffrey0117/modern-ffi) | 簡化的原生庫綁定 |
-| [**modern-proxy**](https://github.com/Jeffrey0117/modern-proxy) | 進階 HTTP/HTTPS 代理工具 |
+| 專案 | 說明 | 安裝 |
+|------|------|------|
+| [**cmdx**](https://github.com/Jeffrey0117/cmdx) | 讓你使用 linux 的指令在 windows 中 | `npm i -g cmdx` |
+| [**wcmd**](https://github.com/Jeffrey0117/wcmd) | 使用 linux 的時候也可以用 windows 指令 | `npm i -g wcmd` |
+| [**typee**](https://github.com/Jeffrey0117/typee) | 一個 bat 檔案讓你用不同編輯器打開 | `npm i -g typee` |
+| [**brozz**](https://github.com/Jeffrey0117/brozz) | 超乾淨的瀏覽器視窗，適合截圖或看影片 | `npm i -g brozz` |
+| [**winbat**](https://github.com/Jeffrey0117/winbat) | 整理所有好用的自定義 bat | `npm i -g winbat` |
 
 ### 🧵 Threads 主題
 
@@ -141,19 +131,6 @@ MemoryGuy   → 7 個服務跑著。洩漏偵測。AI 安全網。
 |------|------|
 | [**ThreadGram**](https://github.com/Jeffrey0117/ThreadGram) | 打造類似 IG 介面的 Threads |
 | [**threads-capture**](https://github.com/Jeffrey0117/threads-capture) | 修正 Threads 之前 OG 有 bug，用短網址去 proxy |
-
-### 🔧 Tampermonkey 腳本集合
-
-| 專案 | 說明 |
-|------|------|
-| [**tampermonkey-lurl-download**](https://github.com/Jeffrey0117/tampermonkey-lurl-download) | 從 lurl.cc 下載影片和圖片 |
-| [**tampermonkey-bilibili-download**](https://github.com/Jeffrey0117/tampermonkey-bilibili-download) | 從 Bilibili 下載影片 |
-| [**tampermonkey-fix-viewpic**](https://github.com/Jeffrey0117/tampermonkey-fix-viewpic) | 修復 hbl917070 的看圖腳本 |
-| [**tampermonkey-md-copy**](https://github.com/Jeffrey0117/tampermonkey-md-copy) | Ctrl + 右鍵 → 複製成 [文字](網址) |
-| [**tampermonkey-player-handler**](https://github.com/Jeffrey0117/tampermonkey-player-handler) | 簡單的播放器處理 |
-| [**tampermonkey-player-helper**](https://github.com/Jeffrey0117/tampermonkey-player-helper) | 更好的觀看體驗 |
-| [**tampermonkey-repo-viewer**](https://github.com/Jeffrey0117/tampermonkey-repo-viewer) | 更好的瀏覽 repo 介面 |
-| [**tampermonkey-atuo-dm**](https://github.com/Jeffrey0117/tampermonkey-atuo-dm) | IG 自動私訊 |
 
 ### 🎯 學習與作品
 
@@ -174,6 +151,37 @@ MemoryGuy   → 7 個服務跑著。洩漏偵測。AI 安全網。
 | [**batchdall**](https://github.com/Jeffrey0117/batchdall) | DALL-E 3 批次圖像生成 |
 | [**RawSer**](https://github.com/Jeffrey0117/RawSer) | 開發專用瀏覽器，非常實驗性 |
 | [**monus**](https://github.com/Jeffrey0117/monus) | 實驗性的 manus 工具 |
+
+---
+
+<details>
+<summary>📦 Node.js Modern 系列庫</summary>
+
+| 專案 | 說明 | 安裝 |
+|------|------|------|
+| [**modern-audio**](https://github.com/Jeffrey0117/modern-audio) | 簡化的 Node.js 音訊處理，支援 async/await | `npm i modern-audio` |
+| [**modern-crypto**](https://github.com/Jeffrey0117/modern-crypto) | 型別安全的 Node.js 加密庫 | `npm i modern-crypto` |
+| [**modern-fs**](https://github.com/Jeffrey0117/modern-fs) | 強化的檔案操作，Promise-based | `npm i modern-fs` |
+| [**modern-ffi**](https://github.com/Jeffrey0117/modern-ffi) | 簡化的原生庫綁定 | `npm i modern-ffi` |
+| [**modern-proxy**](https://github.com/Jeffrey0117/modern-proxy) | 進階 HTTP/HTTPS 代理工具 | `npm i modern-proxy` |
+
+</details>
+
+<details>
+<summary>🔧 Tampermonkey 腳本集合</summary>
+
+| 專案 | 說明 |
+|------|------|
+| [**tampermonkey-lurl-download**](https://github.com/Jeffrey0117/tampermonkey-lurl-download) | 從 lurl.cc 下載影片和圖片 |
+| [**tampermonkey-bilibili-download**](https://github.com/Jeffrey0117/tampermonkey-bilibili-download) | 從 Bilibili 下載影片 |
+| [**tampermonkey-fix-viewpic**](https://github.com/Jeffrey0117/tampermonkey-fix-viewpic) | 修復 hbl917070 的看圖腳本 |
+| [**tampermonkey-md-copy**](https://github.com/Jeffrey0117/tampermonkey-md-copy) | Ctrl + 右鍵 → 複製成 [文字](網址) |
+| [**tampermonkey-player-handler**](https://github.com/Jeffrey0117/tampermonkey-player-handler) | 簡單的播放器處理 |
+| [**tampermonkey-player-helper**](https://github.com/Jeffrey0117/tampermonkey-player-helper) | 更好的觀看體驗 |
+| [**tampermonkey-repo-viewer**](https://github.com/Jeffrey0117/tampermonkey-repo-viewer) | 更好的瀏覽 repo 介面 |
+| [**tampermonkey-atuo-dm**](https://github.com/Jeffrey0117/tampermonkey-atuo-dm) | IG 自動私訊 |
+
+</details>
 
 ---
 
