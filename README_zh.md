@@ -18,7 +18,7 @@
 DevUp       → 新電腦？一個指令。全部就緒。
 ZeroSetup   → 你的專案有 20 個安裝步驟？現在只有一個。
 ClaudeBot   → 在手機上寫程式。AI 改你的程式碼。
-CloudPipe   → Git push → 上線。Telegram 管理。$0/月。
+Pipee       → Git push → 上線。Telegram 管理。$0/月。
 MemoryGuy   → 7 個服務跑著。洩漏偵測。AI 安全網。
 ```
 
@@ -27,7 +27,7 @@ MemoryGuy   → 7 個服務跑著。洩漏偵測。AI 安全網。
 | [**DevUp**](https://github.com/Jeffrey0117/DevUp) | 「設定新電腦要搞一整天」 | `npm i -g devup-cli` |
 | [**ZeroSetup**](https://github.com/Jeffrey0117/ZeroSetup) | 「看 README、裝 Python、設 PATH...」 | `npx zerosetup` |
 | [**ClaudeBot**](https://github.com/Jeffrey0117/ClaudeBot) | 「我要帶筆電才能寫程式」 | [Telegram bot](https://github.com/Jeffrey0117/ClaudeBot) |
-| [**CloudPipe**](https://github.com/Jeffrey0117/CloudPipe) | 「部署很複雜又很貴」 | `npm i -g @jeffrey0117/cloudpipe` |
+| [**Pipee**](https://github.com/Jeffrey0117/pipee) | 「部署很複雜又很貴」 | [Quick Start](https://github.com/Jeffrey0117/pipee#quick-start) |
 | [**MemoryGuy**](https://github.com/Jeffrey0117/MemoryGuy) | 「哪個 node.exe 是哪個？有東西在漏記憶體嗎？」 | [Electron app](https://github.com/Jeffrey0117/MemoryGuy) |
 
 ---
@@ -38,7 +38,7 @@ MemoryGuy   → 7 個服務跑著。洩漏偵測。AI 安全網。
 
 | 專案 | 說明 |
 |------|------|
-| [**CloudPipe**](https://github.com/Jeffrey0117/CloudPipe) | 自架 Vercel — Git push 部署、Telegram bot 控制、31+ MCP 工具讓 AI agent 操作 |
+| [**Pipee**](https://github.com/Jeffrey0117/pipee) | 自架 Vercel — Git push 部署、Telegram bot 控制、MCP 工具讓 AI agent 操作 |
 | [**ClaudeBot**](https://github.com/Jeffrey0117/ClaudeBot) | Telegram 指揮中心 — AI 在手機上寫程式、語音轉程式碼、即時串流、多 AI 路由 |
 | [**DevUp**](https://github.com/Jeffrey0117/DevUp) | 一個指令重建你的整個開發環境 — 工具、repo、依賴 |
 | [**ZeroSetup**](https://github.com/Jeffrey0117/ZeroSetup) | 為任何 GitHub 專案產生一鍵安裝器 — 使用者雙擊 setup.bat 就好 |
