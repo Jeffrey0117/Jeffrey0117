@@ -28,7 +28,7 @@ Five tools that cover your entire workflow — from new machine to production. E
 DevUp       → New machine? One command. Everything ready.
 ZeroSetup   → Your project has 20 setup steps? Now it has one.
 ClaudeBot   → Write code from your phone. AI edits your codebase.
-CloudPipe   → Git push → live. Manage from Telegram. $0/month.
+Pipee       → Git push → live. Manage from Telegram. $0/month.
 MemoryGuy   → 7 services running. Leak detection. AI safety net.
 ```
 
@@ -37,7 +37,7 @@ MemoryGuy   → 7 services running. Leak detection. AI safety net.
 | [**DevUp**](https://github.com/Jeffrey0117/DevUp) | "Setting up a new machine takes a whole day" | `npm i -g devup-cli` |
 | [**ZeroSetup**](https://github.com/Jeffrey0117/ZeroSetup) | "Read the README, install Python, configure PATH..." | `npx zerosetup` |
 | [**ClaudeBot**](https://github.com/Jeffrey0117/ClaudeBot) | "I need my laptop to code" | [Telegram bot](https://github.com/Jeffrey0117/ClaudeBot) |
-| [**CloudPipe**](https://github.com/Jeffrey0117/CloudPipe) | "Deploying is complicated and expensive" | `npm i -g @jeffrey0117/cloudpipe` |
+| [**Pipee**](https://github.com/Jeffrey0117/pipee) | "Deploying is complicated and expensive" | [Quick Start](https://github.com/Jeffrey0117/pipee#quick-start) |
 | [**MemoryGuy**](https://github.com/Jeffrey0117/MemoryGuy) | "Which node.exe is which? Is something leaking?" | [Electron app](https://github.com/Jeffrey0117/MemoryGuy) |
 
 ---
@@ -48,7 +48,7 @@ MemoryGuy   → 7 services running. Leak detection. AI safety net.
 
 | Project | Description |
 |---------|-------------|
-| [**CloudPipe**](https://github.com/Jeffrey0117/CloudPipe) | Self-hosted Vercel — Git push deploy, Telegram bot control, 31+ MCP tools for AI agents |
+| [**Pipee**](https://github.com/Jeffrey0117/pipee) | Self-hosted Vercel — Git push deploy, Telegram bot control, MCP tools for AI agents |
 | [**ClaudeBot**](https://github.com/Jeffrey0117/ClaudeBot) | Telegram command center — AI writes code from your phone, voice-to-code, live streaming, multi-AI routing |
 | [**DevUp**](https://github.com/Jeffrey0117/DevUp) | One command rebuilds your entire dev environment — tools, repos, dependencies |
 | [**ZeroSetup**](https://github.com/Jeffrey0117/ZeroSetup) | Generate one-click installers for any GitHub project — users just double-click setup.bat |
