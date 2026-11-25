@@ -26,6 +26,7 @@
 | [**ClaudeBot**](https://github.com/Jeffrey0117/ClaudeBot) | A command center on your phone for Claude Code — Telegram bot with plugins, multi-bot, queue, streaming and hot-reload. |
 | [**newebpay-kit**](https://github.com/Jeffrey0117/newebpay-kit) · [site](https://jeffrey0117.github.io/newebpay-kit/) | Zero-dependency Node SDK for NewebPay (藍新金流), including recurring credit-card billing. `npm i newebpay-kit` |
 | [**Pokkit**](https://github.com/Jeffrey0117/Pokkit) · [site](https://jeffrey0117.github.io/pokkit/) | Your own cloud drive — share links with password and expiry, chunked uploads for big files, per-project API keys. |
+| [**MySpeedTest**](https://github.com/Jeffrey0117/MySpeedTest) | Internet speed test that finishes in 5 seconds — parallel connections to saturate the line, auto re-runs when the reading is unstable. Ships an embeddable SDK. |
 
 ---
 
@@ -38,7 +39,7 @@ CloudPipe (deploy platform, private)
 ├── Auth & Payments ── LetMeUse · PayGate · newebpay-kit · paywall-kit
 ├── Data & Storage ─── Selfize · SelfBase · Pokkit
 ├── Content & AI ───── ReelScript · ReelMaker · Workr · RawTxt
-└── Apps ───────────── takeENGLISH · PDFluv · Tunebox · Makee
+└── Apps ───────────── takeENGLISH · PDFluv · Tunebox · Makee · MySpeedTest
 ```
 
 ### Auth & Payments
@@ -99,6 +100,7 @@ Cross-cutting pieces pulled out of real projects, managed by [**kit-kit**](https
 | [supabase-guard](https://github.com/Jeffrey0117/supabase-guard) | Scans Supabase with the anon key for RLS leaks, blocks the push |
 | [claude-session-kit](https://github.com/Jeffrey0117/claude-session-kit) | Persistent Claude Agent SDK sessions for prompt-cache efficiency |
 | [blocks-kit](https://github.com/Jeffrey0117/blocks-kit) | Cross-project UI block vault — harvest and seed components |
+| [brand-footer-kit](https://github.com/Jeffrey0117/brand-footer-kit) | Brand footer that links your sites to each other — static HTML at build time, so crawlers see it |
 
 ---
 
